@@ -141,13 +141,6 @@ input:focus {
 
     .firstSide, .secondSide {
         width: 100%;
-    }
-
-    .firstSide {
-        height: 50%;
-    }
-
-    .secondSide {
         height: 50%;
     }
 }
