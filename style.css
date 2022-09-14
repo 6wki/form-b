@@ -127,6 +127,10 @@ input:focus {
 /* Responsivity */
 
 @media (max-width: 1000px) {
+    body {
+        height: 200vh;
+    }
+
     .container {
         flex-direction: column;
         width: 100%;
@@ -140,10 +144,10 @@ input:focus {
     }
 
     .firstSide {
-        height: 60%;
+        height: 50%;
     }
 
     .secondSide {
-        height: 40%;
+        height: 50%;
     }
 }
